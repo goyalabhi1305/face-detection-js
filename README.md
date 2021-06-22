@@ -1,0 +1,1 @@
+Please note this is a small projcet created to test face api, It lets you detect faces within the browser
